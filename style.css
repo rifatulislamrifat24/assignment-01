@@ -1,0 +1,115 @@
+/* global css start here */
+
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+p{
+    font-size: 20px;
+    color: dimgray;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+
+}
+/* global css end here */
+
+/* 
+    Common Class For First & Second Section Start Here 
+*/
+.arrange-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.arrange-width img{
+    width: 100%;
+}
+.button-decorate{
+    margin: 5px;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 23px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.highlight-one{
+    color: #FF8367;
+}
+.highlight-two{
+    color: #363958;
+}
+.p-highlight{
+    color: #4630bd;
+}
+
+/* 
+    Common Class For First & Second Section End Here 
+*/
+/* 
+    First Section Start Here
+*/
+
+.first-section{
+    padding-top: 50px;
+}
+
+/* 
+    First Section End Here
+*/
+
+/* 
+    Project Section CSS Start Here 
+*/
+h2{
+    text-align: center;
+    font-size: 35px;
+    padding: 50px;
+}
+.project-section{
+    width: 100%;
+    background-color: rgba(192, 192, 192, 0.3);
+}
+
+.project-division img{
+    width: 66%;
+    height: 60%;
+}
+
+.project-division{
+    width: 30%;
+    float: left;
+    margin-left: 10px;
+    padding: 1%;
+}
+
+.project-experience{
+    box-shadow: 2px 2px 40px gray;
+    border-radius: 7px;
+    height: 60%;
+    background-color: white;
+}
+
+/* 
+    Project Section CSS End Here 
+*/
+
+/* 
+    Footer CSS Start Here 
+*/
+
+footer p{
+    text-align: center;
+    font-size: 14px;
+}
+
+/* 
+    Footer CSS End Here 
+*/
